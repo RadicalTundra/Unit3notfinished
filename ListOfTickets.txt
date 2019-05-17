@@ -1,0 +1,8 @@
+Ticket id: 100, Ticket cost: 25.0
+Ticket id: 101, Ticket cost: 5.0
+Ticket id: 102, Ticket cost: 25.0
+Ticket id: 103, Ticket cost: 8.0
+Ticket id: 104, Ticket cost: 13.0
+Ticket id: 105, Ticket cost: 20.0
+Ticket id: 106, Ticket cost: 20.0
+Ticket id: 107, Ticket cost: 9.0
